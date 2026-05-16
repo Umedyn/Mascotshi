@@ -22,17 +22,6 @@ Built in Unity 2D for PC and Android. Designed to expand to new VTuber communiti
 
 ---
 
-## Current Roster (v1.0)
-
-| Mascot | VTuber | Primary Attribute |
-|---|---|---|
-| Shoominion | Shoomimi | Mischief |
-| Codebug | Ellie_Minibot | Knowledge |
-| Minyan | MinikoMew | Gaming |
-| Wormpal | Chrchie | Music |
-
----
-
 ## Getting Started
 
 ### Requirements
